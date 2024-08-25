@@ -51,6 +51,7 @@ a++ increments a after using its current value. a-- decrements a before using it
 ! (logical NOT) inverts the result of a condition.
 
 CODE:
+
 ```
 #include <iostream>
 using namespace std;
@@ -131,7 +132,7 @@ int x,y,z;
     return 0;
 }
 ```
-OUTPUT :
+OUTPUT :  ![image](https://github.com/user-attachments/assets/7ec3d2ab-78f1-4228-aa46-636149e0da02)
 
 
 CONCLUSION:
